@@ -1,0 +1,5 @@
+{
+  "name": "GyanSetu - Low-Bandwidth Virtual Classroom",
+  "description": "A fully functional prototype of 'GyanSetu,' a low-bandwidth virtual classroom platform designed for slow and unstable internet connections, supporting both Student and Educator roles.",
+  "requestFramePermissions": []
+}
